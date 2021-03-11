@@ -1,0 +1,6 @@
+{
+  "name": "com.darrentsung.dtvalidator",
+  "version": "1.0.0",
+  "displayName": "DTValidator",
+  "description": "Tool for validating objects (eg. GameObjects, ScriptableObjects, etc) in the Unity Editor."
+}
